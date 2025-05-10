@@ -1,0 +1,24 @@
+{
+  "name": "codeism_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon ./server.js"
+  },
+  "keywords": [
+    "coding",
+    "practice",
+    ""
+  ],
+  "author": "bvvinaykumar45",
+  "license": "ISC",
+  "description": "An web platform where we can practice coding.",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
